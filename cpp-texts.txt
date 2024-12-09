@@ -7,3 +7,6 @@ Marius Bancila - Modern C++ Programming Cookbook_ Master modern C++ including th
 John Farrier - Data Structures and Algorithms with the C++ STL_ A guide for modern C++ practitioners-Packt Publishing (2024)
 Dorothy R. Kirk - Deciphering Object-Oriented Programming with C++-Packt Publishing Pvt Ltd (2022)
 Dr. Rian Quinn - Advanced C++ Programming Cookbook_ Become an expert C++ programmer by mastering concepts like templates, concurrency, and type deduction-Packt Publishing (2020)
+Ivor Horton, Peter Van Weert - Beginning C++23_ From Beginner to Pro-Apress (2023)
+Dmitry Danilov - Refactoring with C++_ Explore modern ways of developing maintainable and efficient applications-Packt Publishing Pvt Ltd (2024)
+(C++ In-Depth Series) Peter Gottschling - Discovering Modern C++-Addison-Wesley Professional (2021)
