@@ -1,3 +1,0 @@
-Andreas Fertig - Programming with C++20_ Concepts, Coroutines, Ranges, and more-Fertig Publications (2021)
-Bartłomiej Filipek - C++ Initialization Story. A Guide Through All Initialization Options and Related C++ Areas-leanpub.com (2022)
-(Tech Today) Marc Gregoire - Professional C++-Wiley (2024)
