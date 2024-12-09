@@ -1,4 +1,0 @@
-Dogan Ibrahim - Nucleo Boards Programming with the STM32CubeIDE_ Hands-on in more than 50 projects [Team-IRA]-Elektor Verlag (2021)
-Mastering the Arduino Uno R4 progr
-Elecia White - Making Embedded Systems_ Design Patterns for Great Software-O’Reilly Media (2024)
-Frank Vasquez_ Chris Simmonds - Mastering Embedded Linux Programming - Third Edition-Packt Publishing (2021)
